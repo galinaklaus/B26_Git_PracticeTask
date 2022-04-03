@@ -8,6 +8,10 @@ public class Hat {
 
     //Updating shopping list
 
+    //Decided to buy one hat
+
+    //Going to buy online
+
 
 
 
